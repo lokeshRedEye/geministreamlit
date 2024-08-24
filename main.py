@@ -10,7 +10,7 @@ st.set_page_config(page_title="Gemini Chat", page_icon=":robot_face:", layout="c
 st.markdown("""
     <style>
     .chat-message {
-        background-color: black;
+        background-color: white;
         padding: 10px;
         border-radius: 10px;
         margin-bottom: 10px;
